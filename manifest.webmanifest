@@ -1,0 +1,16 @@
+{
+  "name": "BusanSafe Tube — 학교안전 자료 아카이브",
+  "short_name": "BusanSafe",
+  "description": "학교안전 7대 표준안 자료를 한곳에서 찾아보는 부산 학교안전 자료 아카이브",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f8fb",
+  "theme_color": "#1e4fa3",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
